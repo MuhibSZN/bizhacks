@@ -30,7 +30,7 @@ This project is a recruitment analysis tool that uses OpenAI's GPT-3.5 to evalua
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/recruitment_analysis_tool.git
+    git clone https://github.com/MuhibSZN/bizhacks.git
     cd recruitment_analysis_tool
     ```
 
